@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/industry-tech-showcase/static/css/main.771fa928.css",
-    "main.js": "/industry-tech-showcase/static/js/main.6c30a731.js",
+    "main.css": "/industry-tech-showcase/static/css/main.9602bb8e.css",
+    "main.js": "/industry-tech-showcase/static/js/main.e6bd3381.js",
     "static/js/453.b46a02da.chunk.js": "/industry-tech-showcase/static/js/453.b46a02da.chunk.js",
     "index.html": "/industry-tech-showcase/index.html",
-    "main.771fa928.css.map": "/industry-tech-showcase/static/css/main.771fa928.css.map",
-    "main.6c30a731.js.map": "/industry-tech-showcase/static/js/main.6c30a731.js.map",
+    "main.9602bb8e.css.map": "/industry-tech-showcase/static/css/main.9602bb8e.css.map",
+    "main.e6bd3381.js.map": "/industry-tech-showcase/static/js/main.e6bd3381.js.map",
     "453.b46a02da.chunk.js.map": "/industry-tech-showcase/static/js/453.b46a02da.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.771fa928.css",
-    "static/js/main.6c30a731.js"
+    "static/css/main.9602bb8e.css",
+    "static/js/main.e6bd3381.js"
   ]
 }
